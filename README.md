@@ -41,3 +41,19 @@ Run the following command to get results:
   * `--data_name`: the dataset name.
   ```
 You will get the evaluation results in the outputs/ folder, which contains the evaluation results.
+
+
+## 📜Reference
+
+If this code or dataset contributes to your research, please kindly consider citing our paper and give this repo ⭐️ :)
+```
+@misc{li2025retrievalgenerationunifyingexternal,
+      title={From Retrieval to Generation: Unifying External and Parametric Knowledge for Medical Question Answering}, 
+      author={Lei Li and Xiao Zhou and Yingying Zhang and Xian Wu},
+      year={2025},
+      eprint={2510.18297},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2510.18297}, 
+}
+```
