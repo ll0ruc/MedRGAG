@@ -3,7 +3,7 @@
 
 ## 🔭 Overview
 
-### From Retrieval to Generation: Unifying External and Parametric Knowledge for Medical Question Answering
+### From Retrieval to Generation: Unifying External and Parametric Knowledge for Medical Question Answering (Accepted in WWW2026)
 
  In this work, we propose MedRGAG, a unified retrieval--generation augmented framework that seamlessly integrates external and parametric knowledge for medical QA. 
  
